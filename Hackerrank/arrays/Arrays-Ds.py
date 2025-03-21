@@ -1,7 +1,7 @@
 # Hackerrank
 # Problem name:Arrays:Ds
 # Link: https://www.hackerrank.com/challenges/arrays-ds
-#Difficulty:Easy
+# Difficulty:Easy
 
 def reverseArray(a):
     # Write your code here
